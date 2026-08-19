@@ -22,7 +22,7 @@ let history = [];
 const CAT_ICON_FALLBACK = '📁';
 
 // URL do backend (Cloudflare Worker) que serve Canvas, Negócios e Jarvis.
-const BACKEND = 'https://hub.vicentevargasblanco.workers.dev';
+const BACKEND = 'https://jarvis-backend-qofm.onrender.com';
 
 init();
 initJarvis();
