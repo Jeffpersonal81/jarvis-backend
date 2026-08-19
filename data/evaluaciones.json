@@ -1,0 +1,63 @@
+{
+  "status": "live",
+  "note": "Sincronizado do Gmail em 19/06/2026. As datas exatas de alguns avisos vêm do corpo completo do e-mail (o Canvas nem sempre detalha a data no resumo) — verifique o e-mail original se precisar da hora exata.",
+  "lastSynced": "2026-06-19",
+  "items": [
+    {
+      "subject": "Álgebra",
+      "title": "Solemne 2 — sala da sessão",
+      "priority": "alta",
+      "date": "2026-06-19 (aviso do mesmo dia)",
+      "source": "gmail: relatório Canvas 19 de Jun",
+      "detail": "Aviso da sala atribuída para o Solemne 2 de Introdução à Álgebra."
+    },
+    {
+      "subject": "Álgebra",
+      "title": "Pauta Controle 3 e Guia de revisão (Solemne 2)",
+      "priority": "alta",
+      "date": "2026-06-13",
+      "source": "gmail: Biblioteca de Recursos ICB",
+      "detail": "Material de apoio publicado para preparar o Solemne 2."
+    },
+    {
+      "subject": "Álgebra / Cálculo",
+      "title": "Mesas de estudo de cálculo (apoio Intro. Álgebra)",
+      "priority": "media",
+      "date": "2026-06-15",
+      "source": "gmail: relatório Canvas 15 de Jun",
+      "detail": "Sessões de apoio/estudo disponíveis antes do Solemne 2."
+    },
+    {
+      "subject": "Química",
+      "title": "Mesa de estudo Química",
+      "priority": "media",
+      "date": "2026-06-12",
+      "source": "gmail: relatório Canvas 12 de Jun",
+      "detail": "Biblioteca de Recursos ICB — sessão de apoio."
+    },
+    {
+      "subject": "Programação",
+      "title": "Aviso sobre revisão de controles",
+      "priority": "media",
+      "date": "2026-06-10",
+      "source": "gmail: relatório Canvas 10 de Jun",
+      "detail": "Comunicado do professor sobre como os controles serão revisados."
+    },
+    {
+      "subject": "UDP — administrativo",
+      "title": "Pesquisa de Avaliação Docente (EED) 1º semestre",
+      "priority": "baja",
+      "date": "Prazo: 2026-06-15 a 2026-07-10",
+      "source": "gmail: comunicado UDP",
+      "detail": "Não é uma avaliação de curso, mas tem prazo — é recomendável responder antes de 10 de julho."
+    },
+    {
+      "subject": "Álgebra",
+      "title": "Notas do Oficina N°3 publicadas",
+      "priority": "baja",
+      "date": "2026-06-17",
+      "source": "gmail: relatório Canvas 17 de Jun",
+      "detail": "Já avaliado — informativo, não requer ação."
+    }
+  ]
+}

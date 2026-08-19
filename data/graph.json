@@ -1,0 +1,65 @@
+{
+  "root": "root",
+  "nodes": {
+    "root": {
+      "label": "Hub",
+      "icon": "🎓",
+      "type": "group",
+      "children": ["algebra", "calculo", "quimica", "programacion", "estudios", "tareas", "negocios", "finanzas", "accesos"]
+    },
+
+    "algebra": { "label": "Álgebra", "icon": "📐", "type": "course", "slug": "algebra" },
+    "calculo": { "label": "Cálculo", "icon": "📈", "type": "course", "slug": "calculo" },
+    "quimica": { "label": "Química", "icon": "⚗️", "type": "course", "slug": "quimica" },
+    "programacion": { "label": "Programação", "icon": "💻", "type": "course", "slug": "programacion" },
+
+    "estudios": {
+      "label": "Estudos",
+      "icon": "🧭",
+      "type": "group",
+      "children": ["canvas", "evaluaciones", "resumen", "avisos"]
+    },
+    "canvas": { "label": "Canvas", "icon": "🏫", "type": "panel:canvas" },
+    "evaluaciones": { "label": "Próximas avaliações", "icon": "📅", "type": "panel:evaluaciones" },
+    "resumen": { "label": "Resumo semanal", "icon": "🧠", "type": "panel:resumen" },
+    "avisos": { "label": "Configurar avisos", "icon": "⚙️", "type": "panel:avisos" },
+
+    "tareas": {
+      "label": "Tarefas",
+      "icon": "✅",
+      "type": "panel:placeholder",
+      "note": "Lista de tarefas pessoais. Diga-me o que você quer monitorar e nós construímos."
+    },
+
+    "negocios": {
+      "label": "Negócios",
+      "icon": "💼",
+      "type": "group",
+      "children": ["neg_metricas", "neg_shopify", "neg_meta", "neg_business", "neg_googleads", "neg_tiktok"]
+    },
+    "neg_metricas": { "label": "Métricas", "icon": "📊", "type": "panel:negocio" },
+    "neg_shopify": { "label": "Shopify", "icon": "🛒", "type": "link", "url": "https://admin.shopify.com" },
+    "neg_meta": { "label": "Meta Ads", "icon": "📣", "type": "link", "url": "https://adsmanager.facebook.com/adsmanager" },
+    "neg_business": { "label": "Business Suite", "icon": "📘", "type": "link", "url": "https://business.facebook.com" },
+    "neg_googleads": { "label": "Google Ads", "icon": "🔎", "type": "link", "url": "https://ads.google.com?subid=xs-ip-gemini-adlc" },
+    "neg_tiktok": { "label": "TikTok Ads", "icon": "🎵", "type": "link", "url": "https://ads.tiktok.com" },
+
+    "finanzas": {
+      "label": "Finanças",
+      "icon": "💰",
+      "type": "panel:placeholder",
+      "note": "Espaço para finanças pessoais. Podemos conectá-lo a uma planilha ou resumo manual."
+    },
+
+    "accesos": {
+      "label": "Acessos",
+      "icon": "🔗",
+      "type": "group",
+      "children": ["acc_gmail", "acc_canvas", "acc_drive", "acc_udp"]
+    },
+    "acc_gmail": { "label": "Gmail", "icon": "✉️", "type": "link", "url": "https://mail.google.com" },
+    "acc_canvas": { "label": "Canvas UDP", "icon": "🏫", "type": "link", "url": "https://udp.instructure.com" },
+    "acc_drive": { "label": "Drive", "icon": "📂", "type": "link", "url": "https://drive.google.com" },
+    "acc_udp": { "label": "Portal UDP", "icon": "🏛️", "type": "link", "url": "https://www.udp.cl" }
+  }
+}
